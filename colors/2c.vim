@@ -43,7 +43,7 @@ hi String          guibg=#ffffea    guifg=black
 hi Character       guibg=#ffffea    guifg=black
 hi Number          guibg=#ffffea    guifg=black
 hi Boolean         guibg=#ffffea    guifg=black
-hi Float           guibg=#ffffea    guifg=#black
+hi Float           guibg=#ffffea    guifg=black
 
 hi Identifier      guibg=#ffffea    guifg=black
 hi Function        guibg=#ffffea    guifg=black
